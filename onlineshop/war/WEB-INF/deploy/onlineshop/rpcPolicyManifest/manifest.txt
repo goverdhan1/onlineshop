@@ -1,0 +1,3 @@
+# Module onlineshop
+# RPC service class, partial path of RPC policy file
+onlineshop.client.GreetingService, 6CC89F3A4568EF72C31D7E42AD56B5E8.gwt.rpc
